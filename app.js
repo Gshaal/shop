@@ -30,8 +30,7 @@ const error_controller =require('./controllers/error')
 
 //db
 const mongoose = require('mongoose')
-// user : root
-//password: 2113321Nopro
+
 const MONGODB_URL = `mongodb+srv://${process.env.MONGO_USER}:${process.env.MONGO_PASSWORD}@cluster0-uehrt.mongodb.net/${process.env.MONGO_DEFAULT_DATABASE}?retryWrites=true&w=majority`
 //session 
 
