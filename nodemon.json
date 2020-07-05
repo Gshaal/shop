@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"root",
+        "MONGO_PASSWORD":"2113321Nopro",
+        "MONGO_DEFAULT_DATABASE":"shop",
+        "STRIPE_KEY":"sk_test_51H0siHLZ4zA2mGTrhWhwKdeSvjOxSzNqGEere7aRQ3XTSXAdURKj2famlGsz9pS59CSB7cVVneFtsz2HcCUbSaCg0008CkliQm"
+    }
+}
