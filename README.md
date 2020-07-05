@@ -2,7 +2,7 @@
 # shop
 
 Node js shop app using ejs templating engine and simulation of payment using stripe 
-[Live Demon](https://shop-jsjunkie.herokuapp.com/).
+[Live Demo](https://shop-jsjunkie.herokuapp.com/).
 ## Installation
 
 
